@@ -1,0 +1,14 @@
+# this is a comment
+
+name: John # Propoerty
+
+names:      #Lista
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: random house
